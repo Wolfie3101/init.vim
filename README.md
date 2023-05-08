@@ -1,1 +1,2 @@
-# init.vim \s Neovim config file
+# init.vim 
+Neovim config file
